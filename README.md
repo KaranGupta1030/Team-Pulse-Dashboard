@@ -1,4 +1,6 @@
-![Screen Recording 2025-09-19 at 12 55 14 PM](https://github.com/user-attachments/assets/c60d6b37-e5de-4598-aa3c-82f448d81b2e)# Team Pulse Dashboard
+![Screen Recording 2025-09-19 at 12 55 14 PM](https://github.com/user-attachments/assets/c60d6b37-e5de-4598-aa3c-82f448d81b2e)
+
+# Team Pulse Dashboard
 
 A role-based React + Redux Toolkit dashboard to monitor productivity, assign tasks, and track progress.
 
@@ -14,12 +16,9 @@ A role-based React + Redux Toolkit dashboard to monitor productivity, assign tas
 - Tailwind CSS + shadcn components
 - Vite
 - Recharts
+- Vercel: https://team-pulse-dashboard-chi.vercel.app/
 
-  
-- DEMO VIDEO
-- ![Screen Recording 2025-09-19 at 12 55 14 PM](https://github.com/user-attachments/assets/1acf2e54-4106-462b-98f9-e5dd30054e33)
 
-- Recharts
 
 ## Getting Started
 ```bash
